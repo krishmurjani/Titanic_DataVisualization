@@ -10,9 +10,6 @@ This repository contains an R script for analyzing the Titanic dataset using Mon
 - [Installation](#installation)
 - [Usage](#usage)
 - [Data Analysis](#data-analysis)
-- [Visualizations](#visualizations)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -57,21 +54,4 @@ The script performs the following analyses:
 - **Count plot for 'Embarked'**: Bar plot of embarkation points.
 - **Average age by passenger class**: Bar plot of average ages.
 
-## Visualizations
-
-Here are some key visualizations produced by the script:
-
-- **Titanic Survival Rates**:
-    ![Survival Rates](images/survival_rates.png)
-
-- **Survival Rates by Gender**:
-    ![Survival Rates by Gender](images/survival_rates_gender.png)
-
-- **Survival Rates by Ticket Class**:
-    ![Survival Rates by Class](images/survival_rates_class.png)
-
-- **Age Distribution**:
-    ![Age Distribution](images/age_distribution.png)
-
-- **Scatter Plot of Age vs. Fare**:
-    ![Age vs Fare](images/age_vs_fare.png)
+These materials make use of the data from Kaggle's [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) competition.
